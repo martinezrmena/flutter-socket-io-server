@@ -1,0 +1,10 @@
+//To save project on git
+// 1- git init
+// 2- .add
+// 3- git commit -m "Fin Seccion 3"
+// 4- git remote add origin https://github.com/martinezrmena/flutter-socket-io-server.git
+// git branch - M main
+// git push - u origin main
+// 5- Create tags
+// git tag - a v1.0.0 - m "Socket Server Basico"
+// 6 - git push--tags
